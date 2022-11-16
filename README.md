@@ -87,4 +87,15 @@ To prevent infinite recursion, you can use if...else statement (or similar
 approach) where one branch makes the recursive call, and the other 
 doesn't
 ![10](./Image/img-10.jpg)
+# Closure
+Closure is one of the most 
+important, and often least 
+understood, concepts in 
+JavaScript. You can think of 
+closure as a way to 
+“remember” and continue to 
+access a function’s scope (its 
+variables) even once the 
+function has finished running.
+
 ![11](./Image/img-11.jpg)
